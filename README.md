@@ -5,3 +5,7 @@
 ## Conteúdo 📚
 
 1. **Debug Python with Vs Code**
+
+<br>
+
+2. **Bug Hunting with Pytest**
